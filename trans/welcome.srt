@@ -1,0 +1,195 @@
+1
+00:00:00,270 --> 00:00:01,540
+My name is Sebastian.
+我叫塞巴斯蒂安。
+
+2
+00:00:01,540 --> 00:00:03,390
+I welcome you to our
+我欢迎你到我们这里
+self driving chronology.
+自驾车年表。
+
+3
+00:00:03,390 --> 00:00:06,390
+The self driving car
+自驾车
+started when I was 18.
+我18岁时就开始了。
+
+4
+00:00:06,390 --> 00:00:11,550
+One of my best friends in the
+我最好的朋友之一
+neighborhood died in a traffic accident.
+邻居在交通事故中丧生。
+
+5
+00:00:11,550 --> 00:00:13,150
+His life went away in no time.
+他的生命很快就消失了。
+
+6
+00:00:13,150 --> 00:00:17,770
+And back in the day, I asked myself,
+回到白天，我问自己，
+why is it that we have these machines
+为什么我们有这些机器
+
+7
+00:00:17,770 --> 00:00:22,110
+that are great on one hand,
+这一方面很棒，
+but still kill so many people?
+但还是杀死了这么多人？
+
+8
+00:00:22,110 --> 00:00:24,830
+It stuck with me for a long time.
+它困扰了我很长一段时间。
+
+9
+00:00:24,830 --> 00:00:28,300
+And when I joined Stanford in 2003,
+当我2003年加入斯坦福大学时，
+the US government
+美国政府
+
+10
+00:00:28,300 --> 00:00:33,160
+had just launched a competition
+刚刚发起了一场比赛
+called the DARPA Grand Challenge.
+被称为DARPA大挑战赛。
+
+11
+00:00:33,160 --> 00:00:38,090
+It's a competition where a self driven
+这是一场自我驱动的比赛
+car had to drive through an empty desert
+汽车不得不穿过空旷的沙漠
+
+12
+00:00:38,090 --> 00:00:39,620
+in California.
+在加利福尼亚。
+
+13
+00:00:39,620 --> 00:00:40,720
+Our car Stanley,
+我们的汽车斯坦利，
+
+14
+00:00:40,720 --> 00:00:46,320
+named after Stanford was a blue,
+斯坦福以蓝色命名，
+beautiful Volkswagen Touareg.
+美丽的大众途锐。
+
+15
+00:00:46,320 --> 00:00:49,920
+And lo and
+而且和
+behold we won the competition.
+看哪，我们赢了比赛。
+
+16
+00:00:49,920 --> 00:00:53,490
+My team joined Google in 2009 to build
+我的团队于2009年加入Google进行构建
+
+17
+00:00:53,490 --> 00:00:57,990
+a self driving car that could drive
+一辆可以驾驶的自动驾驶汽车
+on public streets where we all drive.
+在我们都开车的公共街道上。
+
+18
+00:00:57,990 --> 00:01:00,450
+And when we were ready to
+当我们准备好的时候
+tell the public about it,
+告诉公众，
+
+19
+00:01:00,450 --> 00:01:05,236
+we had driven not just 100,000 unique
+我们驾驶的不仅仅是100,000个独特的
+miles for the self driving cars.
+自驾车的里程。
+
+20
+00:01:05,236 --> 00:01:09,070
+But we've also driven pretty much
+但我们也开得很多
+the hardest streets in California you
+加利福尼亚州最难的街道
+
+21
+00:01:09,070 --> 00:01:11,770
+can imagine, completely self driven.
+可以想象，完全是自我驱动的。
+
+22
+00:01:11,770 --> 00:01:14,260
+We drove from San Francisco
+我们从旧金山开车
+to Los Angeles.
+到洛杉矶。
+
+23
+00:01:14,260 --> 00:01:17,130
+The technology has been in
+该技术已经存在
+development for many, many decades,
+发展了许多，几十年，
+
+24
+00:01:17,130 --> 00:01:20,116
+but the breakthroughs
+但突破
+are often most recent years.
+通常是最近几年。
+
+25
+00:01:20,116 --> 00:01:24,020
+More than self driven cars
+不仅仅是自驾车
+now we have proven others can
+现在我们已经证明其他人可以
+
+26
+00:01:24,020 --> 00:01:27,650
+drive safer than humans can drive and
+驾驶比人类驾驶更安全
+automotive companies and
+汽车公司和
+
+27
+00:01:27,650 --> 00:01:30,846
+tech companies are struggling to
+科技公司正在努力
+find great engineers to keep up.
+找到优秀的工程师跟上。
+
+28
+00:01:30,846 --> 00:01:34,973
+This is the self driven program and
+这是自我驱动的程序和
+when you are finished,
+当你完成后，
+
+29
+00:01:34,973 --> 00:01:39,710
+you will have the skills to drawing
+你将有绘画技巧
+this cutting edge industry.
+这个前沿的行业。
+
+30
+00:01:39,710 --> 00:01:42,640
+We are super excited
+我们非常兴奋
+to have you with us.
+和你在一起。
